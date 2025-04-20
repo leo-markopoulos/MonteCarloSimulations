@@ -1,0 +1,1 @@
+This project implements a Monte Carlo simulation using Python to estimate outcomes through repeated random sampling. Applications include financial modeling (e.g., option pricing), probability estimation, and risk analysis. The code is modular and includes visualization support for interpreting simulation results.
